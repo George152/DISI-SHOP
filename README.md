@@ -1,1 +1,2 @@
-# DISI-SHOP\nWeb Application for Simulating and Managing an Online Shop
+# DISI-SHOP
+Web Application for Simulating and Managing an Online Shop
